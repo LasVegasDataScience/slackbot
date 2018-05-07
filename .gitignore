@@ -1,3 +1,11 @@
+# Development
+*.bak
+*.tmp
+tmp/
+
+# Personal Information
+/conf/slack.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
