@@ -23,21 +23,21 @@ Start with the sample provided, then create your own.
 ### Sample
 
 1. Create Your Slack [Workspace](workspace.md)
-2. Setup Slack App within your Workspace
+2. Setup [Slack App](slack_app.md) within your Workspace
   * this will identify the username and get the OAuth Token
-3. Create/Update your Slackbot Configuration
-4. Run the Sample
+  * and Create/Update your Slackbot Configuration
+4. Run the [Sample](slackbots.md)
 
 ### Create your Own Bot
 
 _assuming you already have a workspace from above_
 
-1. Setup Slack App within your Workspace
+1. Setup [Slack App](slack_app.md) within your Workspace
 2. Update your Slackbot Configuration
-3. Copy the Sample and modify the given python code
+3. Copy the [Sample](slackbots.md) and modify the given python code
 
 ### What's Next?
 
-* *Slackinator*
-* *Lexibot*
+* *Slackinator* - down because we can't currently connect to Akinator
+* *Lexibot* - coming soon
 

@@ -16,5 +16,5 @@ pip install .
 
 ## AUTHOR(s)
 
-* [Howard Song](basketball4nerds.wordpress.com)
+* [Howard Song](https://basketball4nerds.wordpress.com/)
 * [Steve Wells](https://www.stephendwells.com/)
