@@ -99,8 +99,12 @@ You will need to replace `xoxb-12345678910-aBCDEFGHIJKlmnoPQRSTUVWX` with the
 *Bot User OAuth Access Token* you copied. Then change `my-slackbot-name` to
 the name you picked for your robot.
 
-## Congratulations
+### Congratulations
 
 You have setup a framework in which to run your app. Now you can run the
 sample app that comes with this repo to see it in action before you create
 your own.
+
+### What's Next?
+
+Now that you've created a Slack app, let's run a sample bot. [Click here to continue](slackbots.md). 

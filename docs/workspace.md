@@ -83,3 +83,8 @@ Personally, I like the app, but it will work fine in the browser too.
 ### 12. Congratulate Youself
 
 You are now the proud administrator of your own Slack Workspace.
+
+
+### What's Next?
+
+Now that you've created a Slack workspace, we need create a Slack app. [Click here to continue](slack_app.md). 
