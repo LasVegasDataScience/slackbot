@@ -1,3 +1,7 @@
+| [Home](README.md) | [Workspace](workspace.md) | [Slack App](slack_app.md) | *SAMPLES* |
+| --- | --- | --- | --- | 
+
+
 # Slackbots
 
 _simple examples of slackbots and how to create your own_

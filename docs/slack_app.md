@@ -1,3 +1,6 @@
+| [Home](README.md) | [Workspace](workspace.md) | *SLACK APP* | [Samples](slackbots.md) |
+| --- | --- | --- | --- | 
+
 # Slack App
 
 _configure app access inside of slack_
