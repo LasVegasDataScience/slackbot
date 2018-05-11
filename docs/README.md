@@ -20,7 +20,7 @@ with it?
 
 Start with the sample provided, then create your own.
 
-### Sample
+### Build a Sample Bot
 
 1. Create Your Slack [Workspace](workspace.md)
 2. Setup [Slack App](slack_app.md) within your Workspace
