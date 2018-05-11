@@ -1,4 +1,5 @@
 | [Home](README.md) | *WORKSPACE* | [Slack App](slack_app.md) | [Samples](slackbots.md) |
+| --- | --- | --- | --- | 
 
 # Create Slack Workspace
 
