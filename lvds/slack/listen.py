@@ -59,7 +59,7 @@ class SlackListen(SlackConnect):
         while True:
             command, output = self.parse_slack_output(self.sc.rtm_read())
 
-            if command and 'channel' in output and output['channel']:
+            if command and 'channel' in output:
                 if self.script:
                     return (command, output)
                 else:
@@ -73,7 +73,7 @@ class SlackListen(SlackConnect):
         Incoming question
         (for use in scripts)
         """
-        self.run()
+        return self.run()
 
 
     def answer(self, response="can you repeat that?", output=None):
