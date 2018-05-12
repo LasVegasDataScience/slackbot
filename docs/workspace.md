@@ -12,6 +12,8 @@ don't have administrator access, you will need to have the administrator set
 up access to your bot for you. These steps will help you walk through what 
 the administrator needs to do.
 
+It all starts at [Slack.com](https://www.slack.com/)
+
 ### 1. Create Workspace
 
 ![](images/workspace/1.png)
