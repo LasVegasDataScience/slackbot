@@ -87,9 +87,19 @@ your configuration file.
 There is a [template](conf/slack_template.ini) setup in this repository under the folder, `conf/`.
 
 It contains a file called `slack_template.ini` which you will need to rename
-to `slack.ini` and keep it in the same directory. Open your new file and
-change the following lines:
+to `slack.ini` and keep it in the same directory. 
 
+I have no idea how to do this with Windows but on a Mac, Linux or any unix system you might use
+the following on the command line:
+
+```
+mv conf/slack_template.ini conf/slack.ini
+vi conf/slack.ini
+```
+
+_assuming you are hardcore and use vi_
+
+With your new file ready to be edited, change the following lines:
 ```
 [my-slackbot-name]
 SLACK_BOT_TOKEN=xoxb-12345678910-aBCDEFGHIJKlmnoPQRSTUVWX
@@ -97,7 +107,7 @@ SLACK_BOT_TOKEN=xoxb-12345678910-aBCDEFGHIJKlmnoPQRSTUVWX
 
 You will need to replace `xoxb-12345678910-aBCDEFGHIJKlmnoPQRSTUVWX` with the
 *Bot User OAuth Access Token* you copied. Then change `my-slackbot-name` to
-the name you picked for your robot.
+the name you picked for your robot. Save your file.
 
 ### Congratulations
 
